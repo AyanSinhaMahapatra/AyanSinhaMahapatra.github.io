@@ -1,0 +1,46 @@
+.layout--author {
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(center);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: url('background.jpg');
+  background-size: cover;
+  overflow: hidden;
+
+  .main {
+    animation: fade-in-down .8s;
+    h1 {
+      margin: 0;
+      color: $text-color-theme-dark-d;
+    }
+    a {
+      @include link-colors($text-color-theme-dark-d);
+    }
+  }
+
+  .content {
+    @include flexbox();
+    @include flex-direction(column);
+    @include align-items(center);
+    @include justify-content(center);
+    padding: .8rem 0 .8rem / 4 0;
+    margin: 0 auto;
+  }
+
+  .author-avatar {
+    display: inline-block;
+    img {
+      display: block;
+      width: 9rem;
+      height: 9rem;
+      border: 5px solid rgba(255, 255, 255, .5);
+      border-radius: 5rem;
+    }
+    @include transition(transform .8s ease);
+  }
+}
+

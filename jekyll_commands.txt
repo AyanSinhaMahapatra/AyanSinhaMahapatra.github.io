@@ -1,0 +1,9 @@
+## Commands	
+
+	$ jekyll serve --draft
+
+	$ jekyll serve
+
+	$ bundle install
+
+	$ bundle update

@@ -1,0 +1,45 @@
+SUBSCRIBE:
+  en:      "Subscribe"
+
+READMORE:
+  en:      "Read more"
+
+SEARCH:
+  en:      "Search"
+CANCEL:
+  en:      "Cancel"
+
+VIEWS:
+  en:      "views"
+
+LAST_UPDATED:
+  en:      "Last updated"
+
+PREVIOUS:
+  en:      "PREVIOUS"
+
+NEXT:
+  en:      "NEXT"
+
+ARTICLE_DATE_FORMAT:
+  en:      "%b %d, %Y"
+
+ARTICLE_LIST_DATE_FORMAT:
+  en:      "%b %d"
+
+STATISTICS:
+  en:      "[POST_COUNT] post articles, [PAGE_COUNT] pages."
+
+LICENSE_ANNOUNCE:
+  en:      "This work is licensed under a [LICENSE] license."
+
+POST_ON_GITHUB:
+  en:      "Edit on Github"
+
+FOLLOW_ME:
+  en:      "Follow me on [NAME]."
+
+EMAIL_ME:
+  en:      "Send me Email."
+
+COPYRIGHT_DATES: "2019"

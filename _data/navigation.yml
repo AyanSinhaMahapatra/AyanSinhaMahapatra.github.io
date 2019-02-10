@@ -1,0 +1,9 @@
+header:
+  - title: Blog
+    url: /blog/
+  - title: Archive
+    url: /blog/archive.html
+  - title: Portfolio
+    url: /ayan/
+  - title: Gallery
+    url: /gallery/
