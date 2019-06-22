@@ -9,7 +9,7 @@ This page acts as an index to all my Neuroscience related blog posts. Cheers!
 
 Blogs
 
-*  Basics of EEG Processing
+*   [Basics of EEG Processing](/2019/06/15/neuro-eeg-mne-basic.html)
 
 Other Resources
 

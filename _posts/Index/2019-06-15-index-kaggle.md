@@ -1,5 +1,5 @@
 ---
-title: Index To Kaggle Club Stuff
+title: Index To Kaggle Club Blogs
 tags: Kaggle University Index 
 ---
 
