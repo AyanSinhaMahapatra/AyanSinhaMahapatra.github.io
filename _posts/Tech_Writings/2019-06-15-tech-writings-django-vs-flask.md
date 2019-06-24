@@ -75,7 +75,7 @@ Django has a far steeper learning curve than Flask and is more complex and intri
 
 # Useful Links
 
-These are some helpful links for further research. 
+These are some helpful links for further research. These post is a compilation of all these resources and my own experience. 
 
 1. [Django Documentation](https://docs.djangoproject.com/en/2.2/topics/)
 2. [Flask Documentation](http://flask.pocoo.org/docs/1.0/)

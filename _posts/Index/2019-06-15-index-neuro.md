@@ -15,6 +15,3 @@ Other Resources
 
 *  [Presentation on Literature Review for BCI Methods](https://docs.google.com/presentation/d/19kr5f3Rwwn4Pc4YIsnixwIbD6GLoSjiooqboLyWCxnk/edit?usp=sharing) 
 *  [Important Papers & Resources for BCI Methods ](https://docs.google.com/document/d/1glOhWwQarUy8XJbW9pgj6Xm4ajsMUDQc5L7hyp8WZso/edit?usp=sharing) 
-
-	
-
