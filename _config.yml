@@ -21,11 +21,15 @@ timezone: Asia/Calcutta
 ## => Author and Social
 ##############################
 author:
-  name: Ayan Sinha Mahapatra
+  name: Ayan Sinha
   email: ayansmahapatra@gmail.com
+  resume: ayan-resume-openfont
   twitter: ayansm23
   github:  AyanSinhaMahapatra
   kaggle: ayansinhamahapatra
+  facebook: carlos.maza.92798072
+  instagram: reason_daddy
+  linkedin: ayansinhaju
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
