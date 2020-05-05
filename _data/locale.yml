@@ -39,6 +39,9 @@ POST_ON_GITHUB:
 FOLLOW_ME:
   en:      "Follow me on [NAME]."
 
+RESUME:
+  en:      "Download my [NAME]."
+
 EMAIL_ME:
   en:      "Send me Email."
 

@@ -15,6 +15,16 @@
       </a>
     {%- endif -%}
 
+    {%- include snippets/locale-to-string.html locale=site.data.locale.RESUME -%}
+
+    {%- if _author.resume -%}
+      <li title="{{ __return | replace: '[NAME]', 'Resume' }}">
+        <a class="button button--circle github-button" itemprop="sameAs" href="https://ayansinha.dev/assets/{{ _author.resume }}.pdf" target="_blank">
+          <div class="icon">{%- include svg/icon/social/resume.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
     {%- include snippets/locale-to-string.html locale=site.data.locale.FOLLOW_ME -%}
 
     {%- if _author.kaggle -%}
@@ -29,6 +39,14 @@
       <li title="{{ __return | replace: '[NAME]', 'Facebook' }}">
         <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/facebook.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
+    {%- if _author.instagram -%}
+      <li title="{{ __return | replace: '[NAME]', 'Instagram' }}">
+        <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.instagram.com/{{ _author.instagram }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/instagram.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
