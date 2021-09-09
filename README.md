@@ -1,7 +1,8 @@
 # AyanSinhaMahapatra.github.io
 
 This is my Personal Website.
-I will gradually update my portfolio and write blogs about AI/Neuroscience here. There will also be personal blogs/opinion pieces and everything else. 
+I will gradually update my portfolio and write blogs about AI/Neuroscience here.
+There will also be personal blogs/opinion pieces and everything else. 
 
 Visit => [AyanSinhaMahapatra.github.io](https://AyanSinhaMahapatra.github.io) or my custom domain [ayansinha.dev](https://www.ayansinha.dev).
 
