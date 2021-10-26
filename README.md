@@ -1,6 +1,6 @@
 # AyanSinhaMahapatra.github.io
 
-This is my Personal Website.
+This is my Personal Website/Resume.
 I will gradually update my portfolio and write blogs about AI/Neuroscience here.
 There will also be personal blogs/opinion pieces and everything else. 
 
